@@ -2,3 +2,6 @@
 /target/
 /config.json
 /guilds.json
+/.project
+/.classpath
+/.settings/
